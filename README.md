@@ -18,7 +18,7 @@
 </html>
 
 
-    👨‍💻 Atualmente como Desenvolvendor Backend.
+    👨‍💻 Atualmente atuando como Desenvolvendor Backend.
     📘 Estudos mais profudos em Análise de Dados.
     ⚽ Gosto muito de futebol porém como telespectador,
     🏋️‍♂️ Também uma academia mas neste caso pratico mesmo.
