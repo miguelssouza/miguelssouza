@@ -1,5 +1,7 @@
 ### Olá, eu sou o Miguel 
 
+Desenvolvedor full-stack com 24 anos, apaixonado por tecnologia e análise de dados. Experiência em Python, Node.js, Docker, Django e Express. Busco aprimorar minhas habilidades em machine learning e contribuir para projetos open-source.
+
 <html>
 
 
